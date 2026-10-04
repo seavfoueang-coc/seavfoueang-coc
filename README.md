@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/seavfoueang-coc/portfolio"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:seavfou.eang@gmail.com"><img src="https://img.shields.io/badge/Email-seavfou.eang%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email seavfou.eang@gmail.com" /></a>
+  <a href="mailto:seavfoueang@gmail.com"><img src="https://img.shields.io/badge/Email-seavfoueang%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email seavfoueang@gmail.com" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Phnom%20Penh-334155?style=flat-square" alt="Based in Phnom Penh" />
 </p>
 
@@ -31,8 +31,8 @@ I'm 18 and in my second year of Software Engineering at the Cambodia Academy of 
 ### Tech I use
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,react,vite,threejs,git,github,vscode&perline=10&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,threejs,git,github,vscode&perline=10&theme=light" alt="Python, JavaScript, HTML, CSS, React, Vite, Three.js, Git, GitHub, VS Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,lua,html,css,react,vite,threejs,git,github,vscode&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,lua,html,css,react,vite,threejs,git,github,vscode&perline=11&theme=light" alt="Python, JavaScript, Lua, HTML, CSS, React, Vite, Three.js, Git, GitHub, VS Code" />
 </picture>
 
 **Learning next:** TypeScript, Next.js, Docker, cloud computing and the basics of machine learning.
@@ -42,16 +42,12 @@ I'm 18 and in my second year of Software Engineering at the Cambodia Academy of 
   <img src="https://skillicons.dev/icons?i=ts,nextjs,docker&theme=light" alt="TypeScript, Next.js, Docker" />
 </picture>
 
-### Featured project
+### Projects
 
-<a href="https://github.com/seavfoueang-coc/portfolio">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=portfolio&hide_border=true&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=portfolio&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="portfolio repository" />
-  </picture>
-</a>
+<p align="center">
+<a href="https://github.com/seavfoueang-coc/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=portfolio&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=portfolio&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="portfolio repository" /></picture></a><a href="https://github.com/seavfoueang-coc/abapay-bot-demo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=abapay-bot-demo&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=abapay-bot-demo&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="abapay-bot-demo repository" /></picture></a><a href="https://github.com/seavfoueang-coc/abapay_integration"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=abapay_integration&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=abapay_integration&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="abapay_integration repository" /></picture></a><a href="https://github.com/seavfoueang-coc/dml-update"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=dml-update&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=dml-update&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="dml-update repository" /></picture></a><a href="https://github.com/seavfoueang-coc/roblox-script"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=roblox-script&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=roblox-script&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="roblox-script repository" /></picture></a><a href="https://github.com/seavfoueang-coc/ai-prompt-bypass"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=ai-prompt-bypass&hide_border=true&description_lines_count=1&theme=github_dark&title_color=3b82f6&icon_color=3b82f6" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=seavfoueang-coc&repo=ai-prompt-bypass&hide_border=true&description_lines_count=1&title_color=2563eb&icon_color=2563eb" alt="ai-prompt-bypass repository" /></picture></a></p>
 
-My personal website, built with React, Vite and Three.js. It has an interactive 3D scene, a small chatbot that answers questions about me, and layouts that work on any screen.
+My personal website is the one I'm proudest of so far. It's built with React, Vite and Three.js, with an interactive 3D scene, a small chatbot that answers questions about me, and layouts that work on any screen.
 
 ### GitHub activity
 
@@ -71,7 +67,7 @@ My personal website, built with React, Vite and Three.js. It has an interactive 
 
 <br />
 
-Open to study groups, small collaborations and internship conversations. The fastest way to reach me is [email](mailto:seavfou.eang@gmail.com).
+Open to study groups, small collaborations and internship conversations. The fastest way to reach me is [email](mailto:seavfoueang@gmail.com).
 
 <!-- Footer wave -->
 <picture>
