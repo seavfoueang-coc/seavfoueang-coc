@@ -30,17 +30,31 @@ I'm 18 and in my second year of Software Engineering at the Cambodia Academy of 
 
 ### Tech I use
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,lua,html,css,react,vite,threejs,git,github,vscode&perline=11&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,js,lua,html,css,react,vite,threejs,git,github,vscode&perline=11&theme=light" alt="Python, JavaScript, Lua, HTML, CSS, React, Vite, Three.js, Git, GitHub, VS Code" />
-</picture>
-
-**Learning next:** TypeScript, Next.js, Docker, cloud computing and the basics of machine learning.
+**Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,docker&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,docker&theme=light" alt="TypeScript, Next.js, Docker" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,lua,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,lua,cpp,html,css&theme=light" alt="Python, JavaScript, Lua, C++, HTML, CSS" />
 </picture>
+**Frameworks and libraries**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,threejs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,threejs,nodejs&theme=light" alt="React, Vite, Three.js, Node.js" />
+</picture>
+**Tools**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm,bash,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,bash,windows&theme=light" alt="Git, GitHub, VS Code, npm, Bash, Windows" />
+</picture>
+**Learning next**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,docker,aws&theme=light" alt="TypeScript, Next.js, Docker, AWS" />
+</picture>
+Also exploring cloud computing and the basics of machine learning.
 
 ### Projects
 
